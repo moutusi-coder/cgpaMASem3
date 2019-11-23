@@ -131,6 +131,7 @@
                 cg=(3*(x1+x2+x4+y1)+4*x3+2*(y2+y3))/20;              
                 $("#abc").text("your cgpa is: "+cg);
                 $("#abc").css("background-color", "rgba(255,255,255,0.9");
+                $("#abc").css("border", "1px solid black");
              });
 
 
